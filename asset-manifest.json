@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/oldagram/static/css/main.1f0489e6.css",
+    "main.js": "/oldagram/static/js/main.77e258af.js",
+    "static/js/787.9caa6505.chunk.js": "/oldagram/static/js/787.9caa6505.chunk.js",
+    "static/media/image2.png": "/oldagram/static/media/image2.fc32f52129ed7ca512eb.png",
+    "static/media/image1.png": "/oldagram/static/media/image1.a9579bad34e23ebe67d9.png",
+    "static/media/image3.png": "/oldagram/static/media/image3.1a246032392934e49254.png",
+    "index.html": "/oldagram/index.html",
+    "main.1f0489e6.css.map": "/oldagram/static/css/main.1f0489e6.css.map",
+    "main.77e258af.js.map": "/oldagram/static/js/main.77e258af.js.map",
+    "787.9caa6505.chunk.js.map": "/oldagram/static/js/787.9caa6505.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f0489e6.css",
+    "static/js/main.77e258af.js"
+  ]
+}
